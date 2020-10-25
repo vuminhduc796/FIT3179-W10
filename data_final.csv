@@ -1,0 +1,268 @@
+Province/State,Country/Region,Lat,Long,Confirmed,Region,Death,Recovered,Active,Region
+,Afghanistan,33.93911,67.709953,40687,Asia,1507,34010,37673,Asia
+,Albania,41.1533,20.1683,18556,Europe,469,10466,17618,Europe
+,Algeria,28.0339,1.6596,55630,Africa,1897,38788,51836,Africa
+,Andorra,42.5063,1.5218,4038,Europe,69,2729,3900,Europe
+,Angola,-11.2027,17.8739,8829,Africa,265,3384,8299,Africa
+,Antigua and Barbuda,17.0608,-61.7964,122,Americas,3,107,116,Americas
+,Argentina,-38.4161,-63.6167,1069368,Americas,28338,866695,1012692,Americas
+,Armenia,40.0691,45.0382,73310,Asia,1145,50276,71020,Asia
+Australian Capital Territory,Australia,-35.4735,149.0124,114,Oceania,3,110,108,Oceania
+New South Wales,Australia,-33.8688,151.2093,4375,Oceania,53,3145,4269,Oceania
+Northern Territory,Australia,-12.4634,130.8456,33,Oceania,0,33,33,Oceania
+Queensland,Australia,-27.4698,153.0251,1167,Oceania,6,1157,1155,Oceania
+South Australia,Australia,-34.9285,138.6007,487,Oceania,4,473,479,Oceania
+Tasmania,Australia,-42.8821,147.3272,230,Oceania,13,217,204,Oceania
+Victoria,Australia,-37.8136,144.9631,20336,Oceania,817,19346,18702,Oceania
+Western Australia,Australia,-31.9505,115.8605,753,Oceania,9,692,735,Oceania
+,Austria,47.5162,14.5501,74415,Europe,954,55195,72507,Europe
+,Azerbaijan,40.1431,47.5769,48221,Asia,656,40831,46909,Asia
+,Bahamas,25.025885,-78.035889,6268,Americas,130,3795,6008,Americas
+,Bahrain,26.0275,50.55,79574,Asia,311,76143,78952,Asia
+,Bangladesh,23.685,90.3563,396413,Asia,5761,312065,384891,Asia
+,Barbados,13.1939,-59.5432,226,Americas,7,207,212,Americas
+,Belarus,53.7098,27.9534,91167,Europe,945,82136,89277,Europe
+,Belgium,50.8333,4.469936,287700,Europe,10658,22517,266384,Europe
+,Belize,17.1899,-88.4976,3050,Americas,46,1872,2958,Americas
+,Benin,9.3077,2.3158,2557,Africa,41,2330,2475,Africa
+,Bhutan,27.5142,90.4336,336,Asia,0,306,336,Asia
+,Bolivia,-16.2902,-63.5887,140612,Americas,8608,107633,123396,Americas
+,Bosnia and Herzegovina,43.9159,17.6791,38493,Europe,1065,26260,36363,Europe
+,Botswana,-22.3285,24.6849,5923,Africa,21,927,5881,Africa
+,Brazil,-14.235,-51.9253,5353656,Americas,156471,4526393,5040714,Americas
+,Brunei,4.5353,114.7277,148,Asia,3,143,142,Asia
+,Bulgaria,42.7339,25.4858,36519,Europe,1077,18102,34365,Europe
+,Burkina Faso,12.2383,-1.5616,2433,Africa,65,1996,2303,Africa
+,Burma,21.9162,95.956,42365,Asia,1038,22445,40289,Asia
+,Burundi,-3.3731,29.9189,553,Africa,1,497,551,Africa
+,Cabo Verde,16.5388,-23.0418,8198,Africa,94,7034,8010,Africa
+,Cambodia,11.55,104.9167,287,Asia,0,283,287,Asia
+,Cameroon,3.848,11.5021,21570,Africa,425,20117,20720,Africa
+Alberta,Canada,53.9333,-116.5765,24261,Americas,300,180626,23661,Americas
+British Columbia,Canada,53.7267,-127.6476,12554,Americas,256,1924,12042,Americas
+Diamond Princess,Canada,0,0,0,,1,1234,-2,
+Grand Princess,Canada,0,0,13,,0,471166,13,
+Manitoba,Canada,53.7609,-98.8139,3935,Americas,48,985,3839,Americas
+New Brunswick,Canada,46.5653,-66.4619,324,Americas,4,928,316,Americas
+Newfoundland and Labrador,Canada,53.1355,-57.6604,288,Americas,4,579,280,Americas
+Northwest Territories,Canada,64.8255,-124.8457,9,Americas,0,409,9,Americas
+Nova Scotia,Canada,44.682,-63.7443,1097,Americas,65,168,967,Americas
+Ontario,Canada,51.2538,-85.3232,71140,Americas,3131,1857,64878,Americas
+Prince Edward Island,Canada,46.5107,-63.4168,64,Americas,0,258,64,Americas
+Quebec,Canada,52.9399,-73.5491,98226,Americas,6106,145,86014,Americas
+Saskatchewan,Canada,52.9399,-106.4509,2591,Americas,25,165,2541,Americas
+Yukon,Canada,64.2823,-135,17,Americas,0,359,17,Americas
+,Central African Republic,6.6111,20.9394,4862,Africa,62,935,4738,Africa
+,Chad,15.4542,18.7322,1423,Africa,96,1257,1231,Africa
+,Chile,-35.6751,-71.543,498906,Americas,13844,5029,471218,Americas
+Anhui,China,31.8257,117.2264,991,Asia,6,63627,979,Asia
+Beijing,China,40.1824,116.4142,940,Asia,9,1015,922,Asia
+Chongqing,China,30.0572,107.874,589,Asia,6,266,577,Asia
+Fujian,China,26.0789,117.9874,429,Asia,1,665,427,Asia
+Gansu,China,35.7518,104.2861,170,Asia,2,934,166,Asia
+Guangdong,China,23.3417,113.4244,1904,Asia,8,155,1888,Asia
+Guangxi,China,23.8298,108.7881,260,Asia,2,271,256,Asia
+Guizhou,China,26.8154,106.8748,147,Asia,2,46,143,Asia
+Hainan,China,19.1959,109.7453,171,Asia,6,75,159,Asia
+Hebei,China,39.549,116.1306,368,Asia,6,18,356,Asia
+Heilongjiang,China,47.862,127.7615,948,Asia,13,414,922,Asia
+Henan,China,37.8957,114.9042,1283,Asia,22,827,1239,Asia
+Hong Kong,China,22.3,114.2,5284,Asia,105,1031,5074,Asia
+Hubei,China,30.9756,112.2707,68139,Asia,4512,205,59115,Asia
+Hunan,China,27.6104,111.7088,1019,Asia,4,701,1011,Asia
+Inner Mongolia,China,44.0935,113.9448,275,Asia,1,242,273,Asia
+Jiangsu,China,32.9711,119.455,670,Asia,0,1,670,Asia
+Jiangxi,China,27.614,115.7221,935,Asia,1,899,933,Asia
+Jilin,China,43.6661,126.1923,157,Asia,2,205,153,Asia
+Liaoning,China,41.2956,122.6085,280,Asia,2,1279,276,Asia
+Macau,China,22.1667,113.55,46,Asia,0,901652,46,Asia
+Ningxia,China,37.2692,106.1655,75,Asia,0,494,75,Asia
+Qinghai,China,35.7452,95.9956,18,Asia,0,3887,18,Asia
+Shaanxi,China,35.1917,108.8701,444,Asia,3,10379,438,Asia
+Shandong,China,36.3427,118.1498,845,Asia,7,61662,831,Asia
+Shanghai,China,31.202,121.4491,1123,Asia,7,20100,1109,Asia
+Shanxi,China,37.5777,112.2922,209,Asia,0,22910,209,Asia
+Sichuan,China,30.6171,102.7103,733,Asia,3,5899,727,Asia
+Tianjin,China,39.3054,117.323,259,Asia,3,1444,253,Asia
+Tibet,China,31.6927,88.0924,1,Asia,0,91651,1,Asia
+Xinjiang,China,41.1129,85.2401,902,Asia,3,473,896,Asia
+Yunnan,China,24.974,101.487,211,Asia,2,16,207,Asia
+Zhejiang,China,29.1832,120.0934,1283,Asia,1,31295,1281,Asia
+,Colombia,4.5709,-74.2973,998942,Americas,29802,659,939338,Americas
+,Comoros,-11.6455,43.3333,517,Africa,7,5393,503,Africa
+,Congo (Brazzaville),-0.228,15.8277,5156,Africa,92,29,4972,Africa
+,Congo (Kinshasa),-4.0383,21.7587,11122,Africa,304,100920,10514,Africa
+,Costa Rica,9.7489,-83.7534,101826,Americas,1265,134187,99296,Americas
+,Cote d'Ivoire,7.54,-5.5471,20405,Africa,121,98713,20163,Africa
+,Croatia,45.1,15.2,31717,Europe,413,28127,30891,Europe
+,Cuba,21.521757,-77.781167,6479,Americas,128,4961,6223,Americas
+,Cyprus,35.1264,33.4299,3314,Asia,25,405,3264,Asia
+,Czechia,49.8175,15.473,238323,Europe,1971,3418,234381,Europe
+Faroe Islands,Denmark,61.8926,-6.9118,490,Europe,0,5485,490,Europe
+Greenland,Denmark,71.7069,-42.6043,17,Americas,0,46118,17,Americas
+,Denmark,56.2639,9.5018,38622,Europe,697,30,37228,Europe
+,Diamond Princess,0,0,712,,13,9800,686,
+,Djibouti,11.8251,42.5903,5528,Africa,61,9995,5406,Africa
+,Dominica,15.415,-61.371,37,Americas,0,3623,37,Americas
+,Dominican Republic,18.7357,-70.1627,122873,Americas,2212,2199,118449,Americas
+,Ecuador,-1.8312,-78.1834,158270,Americas,12528,98,133214,Americas
+,Egypt,26.820553,30.802498,106230,Africa,6176,2964,93878,Africa
+,El Salvador,13.7942,-88.8965,32421,Americas,940,27,30541,Americas
+,Equatorial Guinea,1.6508,10.2679,5074,Africa,83,4630,4908,Africa
+,Eritrea,15.1794,39.7823,461,Africa,0,66,461,Africa
+,Estonia,58.5953,25.0136,4300,Europe,73,12,4154,Europe
+,Eswatini,-26.5225,31.4659,5831,Africa,116,422,5599,Africa
+,Ethiopia,9.145,40.4897,92229,Africa,1400,89600,89429,Africa
+,Fiji,-17.7134,178.065,33,Oceania,2,8512,29,Oceania
+,Finland,61.92411,25.748151,14474,Europe,353,2660,13768,Europe
+French Guiana,France,3.9339,-53.1258,10351,Americas,69,9751,10213,Americas
+French Polynesia,France,-17.6797,149.4068,5797,Oceania,20,312347,5757,Oceania
+Guadeloupe,France,16.265,-61.551,7329,Americas,115,46824,7099,Americas
+Martinique,France,14.6415,-61.0242,2257,Americas,24,1347,2209,Americas
+Mayotte,France,-12.8275,45.166244,4276,Africa,44,24,4188,Africa
+New Caledonia,France,-20.904305,165.618042,27,Oceania,0,93341,27,Oceania
+Reunion,France,-21.1151,55.5364,5149,Africa,20,10474,5109,Africa
+Saint Barthelemy,France,17.9,-62.8333,77,Americas,0,1818,77,Americas
+Saint Pierre and Miquelon,France,46.8852,-56.3159,16,Americas,0,2923,16,Americas
+St Martin,France,18.0708,-63.0501,538,Americas,8,7361,522,Americas
+,France,46.2276,2.2137,1048842,Europe,34236,15,980370,Europe
+,Gabon,-0.8037,11.6094,8919,Africa,54,37132,8811,Africa
+,Gambia,13.4432,-15.3101,3659,Africa,119,15655,3421,Africa
+,Georgia,42.3154,43.3569,24562,Asia,183,3187,24196,Asia
+,Germany,51.165691,10.451526,426110,Europe,10008,7016046,406094,Europe
+,Ghana,7.9465,-1.0232,47601,Africa,314,305100,46973,Africa
+,Greece,39.0742,21.8243,29057,Europe,559,446685,27939,Europe
+,Grenada,12.1165,-61.679,27,Americas,0,375188,27,Americas
+,Guatemala,15.7835,-90.2308,103902,Americas,3594,23364,96714,Americas
+,Guinea,9.9456,-9.6966,11635,Africa,71,290130,11493,Africa
+,Guinea-Bissau,11.8037,-15.1804,2403,Africa,41,261808,2321,Africa
+,Guyana,4.860416,-58.93018,3960,Americas,117,4156,3726,Americas
+,Haiti,18.9712,-72.2852,9015,Americas,231,87600,8553,Americas
+,Holy See,41.9029,12.4534,27,Europe,0,7449,27,Europe
+,Honduras,15.2,-86.2419,91509,Americas,2604,105566,86301,Americas
+,Hungary,47.1625,19.5033,54278,Europe,1352,33421,51574,Europe
+,Iceland,64.9631,-19.0208,4308,Europe,11,23834,4286,Europe
+,India,20.593684,78.96288,7814682,Asia,117956,14831,7578770,Asia
+,Indonesia,-0.7893,113.9213,381910,Asia,13077,111440,355756,Asia
+,Iran,32.427908,53.688046,556891,Asia,31985,47050,492921,Asia
+,Iraq,33.223191,43.679291,445949,Asia,10513,22,424923,Asia
+,Ireland,53.1424,-7.6921,55261,Europe,1878,1357,51505,Europe
+,Israel,31.046051,34.851612,308840,Asia,2329,32412,304182,Asia
+,Italy,41.87194,12.56738,484869,Europe,37059,961,410751,Europe
+,Jamaica,18.1096,-77.2975,8638,Americas,182,1278,8274,Americas
+,Japan,36.204824,138.252924,95868,Asia,1706,29619,92456,Asia
+,Jordan,31.24,36.51,48930,Asia,508,170,47914,Asia
+,Kazakhstan,48.0196,66.9237,110250,Asia,1796,3978,106658,Asia
+,Kenya,-0.0236,37.9062,47843,Africa,884,9085,46075,Africa
+,"Korea, South",35.907757,127.766922,25775,Asia,457,0,24861,Asia
+,Kosovo,42.602636,20.902977,17263,Europe,657,16215,15949,Europe
+,Kuwait,29.31166,47.481766,120232,Asia,740,5287,118752,Asia
+,Kyrgyzstan,41.20438,74.766098,54588,Asia,1126,15884,52336,Asia
+,Laos,19.85627,102.495496,24,Asia,0,10428,24,Asia
+,Latvia,56.8796,24.6032,4208,Europe,50,2620,4108,Europe
+,Lebanon,33.8547,35.8623,68479,Asia,559,3439,67361,Asia
+,Lesotho,-29.61,28.2336,1934,Africa,43,7374,1848,Africa
+,Liberia,6.428055,-9.429499,1393,Africa,82,386,1229,Africa
+,Libya,26.3351,17.228331,53384,Africa,774,740934,51836,Africa
+,Liechtenstein,47.14,9.55,324,Europe,1,51102,322,Europe
+,Lithuania,55.1694,23.8813,9104,Europe,126,241,8852,Europe
+,Luxembourg,49.8153,6.1296,12851,Europe,141,312,12569,Europe
+,MS Zaandam,0,0,9,,2,12378,5,
+,Madagascar,-18.766947,46.869107,16810,Africa,238,157175,16334,Africa
+,Malawi,-13.2543,34.3015,5885,Africa,183,9234,5519,Africa
+,Malaysia,4.210484,101.975766,24514,Asia,214,10748,24086,Asia
+,Maldives,3.2028,73.2207,11391,Asia,37,105488,11317,Asia
+,Mali,17.570692,-3.996166,3444,Africa,132,4160,3180,Africa
+,Malta,35.9375,14.3754,5258,Europe,49,121,5160,Europe
+,Mauritania,21.0079,-10.9408,7662,Africa,163,534,7336,Africa
+,Mauritius,-20.348404,57.552152,435,Africa,10,702,415,Africa
+,Mexico,23.6345,-102.5528,880775,Americas,88312,0,704151,Americas
+,Moldova,47.4116,28.3699,70256,Europe,1654,1835,66948,Europe
+,Monaco,43.7333,7.4167,295,Europe,2,4225,291,Europe
+,Mongolia,46.8625,103.8467,328,Asia,0,1128,328,Asia
+,Montenegro,42.708678,19.37439,16436,Europe,255,57190,15926,Europe
+,Morocco,31.7917,-7.0926,190416,Africa,3205,18247,184006,Africa
+,Mozambique,-18.665695,35.529562,11748,Africa,82,11863,11584,Africa
+,Namibia,-22.9576,18.4904,12501,Africa,133,97949,12235,Africa
+,Nepal,28.1667,84.25,153008,Asia,829,310101,151350,Asia
+Aruba,Netherlands,12.5211,-69.9683,4401,Americas,36,103985,4329,Americas
+"Bonaire, Sint Eustatius and Saba",Netherlands,12.1784,-68.2385,150,Americas,3,545,144,Americas
+Curacao,Netherlands,12.1696,-68.99,818,Americas,1,38797,816,Americas
+Sint Maarten,Netherlands,18.0425,-63.0548,776,Americas,22,796719,732,Americas
+,Netherlands,52.1326,5.2913,272401,Europe,6964,312691,258473,Europe
+,New Zealand,-40.9006,174.886,1934,Oceania,25,105092,1884,Oceania
+,Nicaragua,12.865416,-85.207229,5434,Americas,155,65880,5124,Americas
+,Niger,17.607789,8.081666,1215,Africa,69,127599,1077,Africa
+,Nigeria,9.082,8.6753,61882,Africa,1129,144429,59624,Africa
+,North Macedonia,41.6086,21.7453,25991,Europe,883,1113736,24225,Europe
+,Norway,60.472,8.4689,17532,Europe,279,4806,16974,Europe
+,Oman,21.512583,55.923255,111837,Asia,1147,19,109543,Asia
+,Pakistan,30.3753,69.3451,327063,Asia,6727,27,313609,Asia
+,Panama,8.538,-80.7821,127866,Americas,2622,64,122622,Americas
+,Papua New Guinea,-6.314993,143.95555,583,Oceania,7,716,569,Oceania
+,Paraguay,-23.4425,-58.4438,58259,Americas,1278,898,55703,Americas
+,Peru,-9.19,-75.0152,879876,Americas,33984,330578,811908,Americas
+,Philippines,12.879721,121.774017,365799,Asia,6915,14082,351969,Asia
+,Poland,51.9194,19.1451,228318,Europe,4172,0,219974,Europe
+,Portugal,39.3999,-8.2245,112440,Europe,2276,149,107888,Europe
+,Qatar,25.3548,51.1839,130711,Asia,229,1782,130253,Asia
+,Romania,45.9432,24.9668,201032,Europe,6245,57832,188542,Europe
+,Russia,61.52401,105.318756,1471000,Europe,25353,8859,1420294,Europe
+,Rwanda,-1.9403,29.8739,5052,Africa,34,7659,4984,Africa
+,Saint Kitts and Nevis,17.357822,-62.782998,19,Americas,0,3,19,Americas
+,Saint Lucia,13.9094,-60.9789,48,Americas,0,3166,48,Americas
+,Saint Vincent and the Grenadines,12.9843,-61.2872,73,Americas,0,643523,73,Americas
+,San Marino,43.9424,12.4578,819,Europe,42,1290,735,Europe
+,Sao Tome and Principe,0.1864,6.6131,938,Africa,15,150376,908,Africa
+,Saudi Arabia,23.885942,45.079162,344157,Asia,5264,3644,333629,Asia
+,Senegal,14.4974,-14.4524,15525,Africa,321,6764,14883,Africa
+,Serbia,44.0165,21.0059,38115,Europe,786,5010,36543,Europe
+,Seychelles,-4.6796,55.492,153,Africa,0,0,153,Africa
+,Sierra Leone,8.460555,-11.779889,2343,Africa,74,55800,2195,Africa
+,Singapore,1.2833,103.8333,57951,Asia,28,1692,57895,Asia
+,Slovakia,48.669,19.699,37911,Europe,134,497,37643,Europe
+,Slovenia,46.1512,14.9955,19307,Europe,214,9782,18879,Europe
+,Solomon Islands,-9.6457,160.1562,4,Oceania,0,183,4,Oceania
+,Somalia,5.152149,46.199616,3897,Africa,102,3529,3693,Africa
+,South Africa,-30.5595,22.9375,712412,Africa,18891,28,674630,Africa
+,South Sudan,6.877,31.307,2876,Africa,56,1586,2764,Africa
+,Spain,40.463667,-3.74922,1046132,Europe,34752,3945,976628,Europe
+,Sri Lanka,7.873054,80.771797,7153,Asia,14,5032,7125,Asia
+,Sudan,12.8628,30.2176,13724,Africa,836,311520,12052,Africa
+,Suriname,3.9193,-56.0278,5155,Americas,109,3375427,4937,Americas
+,Sweden,60.128161,18.643501,110594,Europe,5933,7269,98728,Europe
+,Switzerland,46.8182,8.2275,103653,Europe,2067,143093,99519,Europe
+,Syria,34.802075,38.996815,5319,Asia,264,115068,4791,Asia
+,Taiwan*,23.7,121,548,Asia,7,3,534,Asia
+,Tajikistan,38.861,71.2761,10695,Asia,81,175,10533,Asia
+,Tanzania,-6.369028,34.888822,509,Africa,21,70,467,Africa
+,Thailand,15.870032,100.992541,3731,Asia,59,215,3613,Asia
+,Timor-Leste,-8.874217,125.727539,29,Asia,0,659,29,Asia
+,Togo,8.6195,0.8248,2162,Africa,52,13,2058,Africa
+,Trinidad and Tobago,10.6918,-61.2225,5487,Americas,104,500,5279,Americas
+,Tunisia,33.886917,9.537499,47214,Africa,784,321,45646,Africa
+,Turkey,38.9637,35.2433,357693,Asia,9658,12,338377,Asia
+,US,40,-100,8491459,Americas,223975,689,8043509,Americas
+,Uganda,1.373333,32.290275,11163,Africa,99,0,10965,Africa
+,Ukraine,48.3794,31.1656,340042,Europe,6336,2241,327370,Europe
+,United Arab Emirates,23.424076,53.847818,122273,Asia,475,61957,121323,Asia
+Anguilla,United Kingdom,18.2206,-63.0686,3,Americas,0,82899,3,Americas
+Bermuda,United Kingdom,32.3078,-64.7505,190,Americas,9,1049,172,Americas
+British Virgin Islands,United Kingdom,18.4207,-64.64,71,Americas,1,42850,69,Americas
+Cayman Islands,United Kingdom,19.3133,-81.2546,239,Americas,1,8,237,Americas
+Channel Islands,United Kingdom,49.3723,-2.3644,795,Europe,48,1354,699,Europe
+Falkland Islands (Malvinas),United Kingdom,-51.7963,-59.5236,13,Americas,0,15179,13,Americas
+Gibraltar,United Kingdom,36.1408,-5.3536,641,Europe,0,7771,641,Europe
+Isle of Man,United Kingdom,54.2361,-4.5481,348,Europe,24,12,300,Europe
+Montserrat,United Kingdom,16.742498,-62.187366,13,Americas,1,1,11,Americas
+Turks and Caicos Islands,United Kingdom,21.694,-71.7979,699,Americas,6,6,687,Americas
+,United Kingdom,55.3781,-3.436,830998,Europe,44571,44000,741856,Europe
+,Uruguay,-32.5228,-55.7658,2759,Americas,53,53,2653,Americas
+,Uzbekistan,41.377491,64.585262,64724,Asia,542,542,63640,Asia
+,Venezuela,6.4238,-66.5897,88718,Americas,764,764,87190,Americas
+,Vietnam,14.058324,108.277199,1148,Asia,35,35,1078,Asia
+,West Bank and Gaza,31.9522,35.2332,49579,Asia,439,439,48701,Asia
+,Western Sahara,24.2155,-12.8858,10,Africa,1,1,8,Africa
+,Yemen,15.552727,48.516388,2060,Asia,599,599,862,Asia
+,Zambia,-13.133897,27.849332,16095,Africa,346,346,15403,Africa
+,Zimbabwe,-19.015438,29.154857,8257,Africa,236,236,7785,Africa

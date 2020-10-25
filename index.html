@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>FIT3179: Homework Week 10</title>
+  <!-- Import Vega & Vega-Lite -->
+  <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@4"></script>
+  <!-- Import vega-embed -->
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+  <!-- Import pure.css -->
+  <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/pure-min.css" integrity="sha384-cg6SkqEOCV1NbJoCu11+bm0NvBRc8IYLRGXkmNrqUBfTjmMYwNKPWBTIKyw9mHNJ" crossorigin="anonymous">
+  <!-- Google font -->
+  <link href="https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300;0,500;0,800;1,300;1,500;1,800&display=swap" rel="stylesheet">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- custom CSS -->
+  <style>
+    *{
+      font-family: 'Rubik', sans-serif;
+    }
+    h1{
+      font-weight: 800;
+    }
+     body{
+       background-color: black;
+     }
+     .page{
+       width: 1155px;    
+       background-color: white;   
+       margin: auto;
+       padding: 50px;
+       padding-top: 35px;
+    }
+    .vis-container{
+      width: 100%;
+    }
+    .description h2, h1{
+      margin-top:0px;
+    }
+    .description-right {
+      padding-left: 20px;
+    }
+    .description-left{
+      padding-right: 20px;
+    }
+    .pure-g{
+      margin-bottom: 25px;
+    }
+    p{
+     font-size: 18px;
+     font-weight: 300;
+    }
+    .small-font{
+      font-size: 13px;
+      font-weight: 300;
+    }
+  </style>
+</head>
+<body>
+
+ <div class="page">
+
+   <!-- pure grid group -->
+    <div class="pure-g">
+      <div class="pure-u-1-1">
+        <h1>HW 5 Visualisation Dashboard</h1>
+        <p>This visualisation contains data about covid19. </p>
+      </div>
+    </div>
+  <!-- end pure grid group -->
+
+    <!-- pure grid group -->
+    <div class="pure-g">
+        <div class="pure-u-1-4">
+          <div class="description description-left">
+            <h2> The World Map of current covid19 situation</h2>
+            <p> In this world map, we can see the number of confirmed cases globally. It will be represented by the size of dot, bigger dot will imply higher number of recorded cases</p>
+          </div>
+        </div>
+        <div class="pure-u-3-4">
+          <div id="vis1" class="vis-container"></div>
+        </div>
+    </div>
+    <!-- end pure grid group -->
+
+    <!-- pure grid group -->
+    <div class="pure-g">
+        <div class="pure-u-1-4">
+          <div class="description description-left">
+            <h2>The bubble plot showing different patient categories for each country. The data contains death number in the y-axis, recovered in the x-axis and the dot size implies total number of cases</h2>
+            <p> The number.</p>
+          </div>
+        </div>
+        <div class="pure-u-3-4">
+          <div id="vis2" class="vis-container"></div>
+        </div>
+    </div>
+    </div>
+  
+  
+
+  </div> <!-- end page -->
+   
+<script type="text/javascript">
+  var specVis1 = "./map_plot.json.json";
+  var specVis2 = "./bubble_plot.json";
+
+  vegaEmbed('#vis1', specVis1, {"actions": false}).then(function(result) {
+    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+  }).catch(console.error);
+  
+   vegaEmbed('#vis2', specVis2, {"actions": false}).then(function(result) {
+    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+  }).catch(console.error);
+</script>
+</body>
+</html>

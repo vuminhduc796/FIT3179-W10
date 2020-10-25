@@ -1,4 +1,4 @@
-Province/State,Country/Region,Lat,Long,Confirmed,Region Name,Death,Recovered,Active,Region Name
+Province/State,Country/Region,Lat,Long,Confirmed,Region,Death,Recovered,Active,Region Name
 ,Afghanistan,33.93911,67.709953,40687,Asia,1507,34010,37673,Asia
 ,Albania,41.1533,20.1683,18556,Europe,469,10466,17618,Europe
 ,Algeria,28.0339,1.6596,55630,Africa,1897,38788,51836,Africa
